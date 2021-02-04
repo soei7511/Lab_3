@@ -12,3 +12,5 @@ My name is Adam, and this is my change
 Raanee Smith
 
 MY NEW BRANCH CHANGES
+
+Sophia's edit from review
