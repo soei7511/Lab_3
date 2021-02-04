@@ -1,23 +1,21 @@
 # Lab_3
+sophia
 
 Project Team Members:
 
 Sophia Eisner
-=======
 
-changes
-successfully added name to README.md file
-<<<<<<< HEAD
->>>>>>> 4acc29d4aa59d551a6c376361188e2c43374a62b
-=======
 
-Samyak Ghimire
+main
 
-successfully added name to README.md file
 
+
+sophia
 My name is Adam, and this is my change
 
 Raanee Smith
->>>>>>> da88e102fcae7ff02e516c04175dfa84b25f065d
+da88e102fcae7ff02e516c04175dfa84b25f065d
 
 corrected the changes
+Samyak Ghimire
+main
