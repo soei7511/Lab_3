@@ -1,5 +1,7 @@
 # Lab_3
-<<<<<<< HEAD
+
+Project Team Members:
+
 Sophia Eisner
 =======
 
