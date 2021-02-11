@@ -1,14 +1,24 @@
 # Lab_3
+sophia
 
-changes
-successfully added name to README.md file
+Project Team Members:
 
-Samyak Ghimire
+Sophia Eisner
 
-successfully added name to README.md file
 
+main
+
+
+
+sophia
 My name is Adam, and this is my change
 
 Raanee Smith
 
 "I am making new changes"
+
+MY NEW BRANCH CHANGES
+
+corrected the changes
+Samyak Ghimire
+main
