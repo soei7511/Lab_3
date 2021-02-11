@@ -15,6 +15,8 @@ My name is Adam, and this is my change
 
 Raanee Smith
 
+"I am making new changes"
+
 MY NEW BRANCH CHANGES
 
 corrected the changes
