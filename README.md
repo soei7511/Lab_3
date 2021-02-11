@@ -14,7 +14,8 @@ sophia
 My name is Adam, and this is my change
 
 Raanee Smith
-da88e102fcae7ff02e516c04175dfa84b25f065d
+
+MY NEW BRANCH CHANGES
 
 corrected the changes
 Samyak Ghimire
