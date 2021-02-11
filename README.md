@@ -17,6 +17,8 @@ Raanee Smith
 
 "I am making new changes"
 
+"changes for the pull req"
+
 MY NEW BRANCH CHANGES
 
 corrected the changes
